@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+
+      <parameter name="username" value="admin"/>
+
+      <parameter name="password" value="password"/>
+    <classes>
+      <class name="Selenium_TestNG_ClassActivity.Activity1"/>
+       <class name="Selenium_TestNG_ClassActivity.Activity2"/>
+        <class name="Selenium_TestNG_ClassActivity.Activity3"/>
+         <class name="Selenium_TestNG_ClassActivity.Activity4_1"/>
+          <class name="Selenium_TestNG_ClassActivity.Activity4_2"/>
+           <class name="Selenium_TestNG_ClassActivity.Activity5"/>
+            <class name="Selenium_TestNG_ClassActivity.Activity6"/>
+             <class name="Selenium_TestNG_ClassActivity.Activity7"/>
+              <class name="Selenium_TestNG_ClassActivity.Activity8"/>
+               <class name="Selenium_TestNG_ClassActivity.Activity9"/>
+                <class name="Selenium_TestNG_ClassActivity.Activity10"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
